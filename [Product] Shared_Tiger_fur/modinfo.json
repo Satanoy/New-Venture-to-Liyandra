@@ -1,0 +1,49 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Tiger_fur",
+  "ModDependencies": [
+    ],
+  "LoadAfterIds": [
+  ],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Tiger_fur",
+    "Chinese": "Tiger_fur",
+    "French": "Tiger_fur",
+    "German": "Tiger_fur",
+    "Italian": "Tiger_fur",
+    "Japanese": "Tiger_fur",
+    "Korean": "Tiger_fur",
+    "Polish": "Tiger_fur",
+    "Russian": "Tiger_fur",
+    "Spanish": "Tiger_fur",
+    "Taiwanese": "Tiger_fur"
+  },
+  "CreatorName": "India mod Team",
+  
+  "Description": {
+    "English": "Shared Product Tiger fur",
+    "Chinese": "Shared Product Tiger fur",
+    "French": "Shared Product Tiger fur",
+    "German": "Shared Product Tiger fur",
+    "Italian": "Shared Product Tiger fur",
+    "Japanese": "Shared Product Tiger fur",
+    "Korean": "Shared Product Tiger fur",
+    "Polish": "Shared Product Tiger fur",
+    "Russian": "Shared Product Tiger fur",
+    "Spanish": "Shared Product Tiger fur",
+    "Taiwanese": "Shared Product Tiger fur"
+  }
+}

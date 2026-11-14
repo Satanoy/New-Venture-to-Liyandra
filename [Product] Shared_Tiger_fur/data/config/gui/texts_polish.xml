@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START Tiger fur -->
+    <Text>
+      <GUID>1900100250</GUID>
+      <Text>Tiger fur</Text>
+    </Text>
+    <Text>
+      <GUID>1900100251</GUID>
+      <Text>Historically used as a decorative material and a symbol of status.</Text>
+    </Text>
+  <Text>
+      <GUID>1889000389</GUID>
+      <Text>Fake Hunting cabin</Text>
+  </Text>
+  </ModOp>
+</ModOps>

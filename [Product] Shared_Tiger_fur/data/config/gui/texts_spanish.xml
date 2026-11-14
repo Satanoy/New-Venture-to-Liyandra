@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+        <!-- INICIO Piel de tigre -->
+    <Text>
+      <GUID>1900100250</GUID>
+      <Text>Piel de tigre</Text>
+    </Text>
+    <Text>
+      <GUID>1900100251</GUID>
+      <Text>Históricamente utilizada como material decorativo y símbolo de estatus.</Text>
+    </Text>
+  <Text>
+      <GUID>1889000389</GUID>
+      <Text>Fake Hunting cabin</Text>
+  </Text>
+  </ModOp>
+</ModOps>
