@@ -1,0 +1,49 @@
+{
+  "Version": "1.0",
+  "ModID": "ow-utensils-Drakkam",
+  "ModDependencies": [
+    "bottles-Drakkam"
+  ],
+  "LoadAfterIds": [],
+  "Category": {
+    "English": "Production",
+    "Chinese": "生产",
+    "French": "Production",
+    "German": "Produktion",
+    "Italian": "Produzione",
+    "Japanese": "生産",
+    "Korean": "생산",
+    "Polish": "Produkcja",
+    "Russian": "Производство",
+    "Spanish": "Producción",
+    "Taiwanese": "生產"
+  },
+  "ModName": {
+    "English": "OW Utensils (Drakkam)",
+    "Chinese": "OW Utensils (Drakkam)",
+    "French": "OW Utensils (Drakkam)",
+    "German": "OW Utensils (Drakkam)",
+    "Italian": "OW Utensils (Drakkam)",
+    "Japanese": "OW Utensils (Drakkam)",
+    "Korean": "OW Utensils (Drakkam)",
+    "Polish": "OW Utensils (Drakkam)",
+    "Russian": "OW Utensils (Drakkam)",
+    "Spanish": "OW Utensils (Drakkam)",
+    "Taiwanese": "OW Utensils (Drakkam)"
+  },
+  "CreatorName": "Drakkam",
+  "CreatorContact": "https://github.com/Drakkam/Anno-Mods",
+  "Description": {
+    "English": "README.md",
+    "Chinese": "README.md",
+    "French": "README.md",
+    "German": "README.md",
+    "Italian": "README.md",
+    "Japanese": "README.md",
+    "Korean": "README.md",
+    "Polish": "README.md",
+    "Russian": "README.md",
+    "Spanish": "README.md",
+    "Taiwanese": "README.md"
+  }
+}

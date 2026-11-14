@@ -1,0 +1,45 @@
+{
+  "Version": "2.1",
+  "ModID": "liqueur_kurila",
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Liqueur (Kurila)",
+    "Chinese": "Liqueur (Kurila)",
+    "French": "Liqueur (Kurila)",
+    "German": "Liqueur (Kurila)",
+    "Italian": "Liqueur (Kurila)",
+    "Japanese": "Liqueur (Kurila)",
+    "Korean": "Liqueur (Kurila)",
+    "Polish": "Liqueur (Kurila)",
+    "Russian": "Liqueur (Kurila)",
+    "Spanish": "Liqueur (Kurila)",
+    "Taiwanese": "Liqueur (Kurila)"
+  },
+  "CreatorName": "Kurila",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Description": {
+    "English": "file::README.md",
+    "Chinese": "file::README.md",
+    "French": "file::README.md",
+    "German": "file::README.md",
+    "Italian": "file::README.md",
+    "Japanese": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  }
+}
