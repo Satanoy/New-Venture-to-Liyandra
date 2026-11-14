@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1416000302</GUID>
+      <Text>Aceite</Text>
+    </Text>
+    <Text>
+      <GUID>1416000303</GUID>
+      <Text>Producto obtenido de materias primas vegetales o animales, utilizado en diversos procesos artesanales e industriales..</Text>
+    </Text>
+    <Text>
+      <GUID>1416000304</GUID>
+      <Text>Fake Glicerin Chemical Plant</Text>
+    </Text>
+  </ModOp>
+</ModOps>

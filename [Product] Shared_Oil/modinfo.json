@@ -1,0 +1,49 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Oil",
+  "ModDependencies": [
+    ],
+  "LoadAfterIds": [
+  ],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Oil",
+    "Chinese": "Shared_Oil",
+    "French": "Shared_Oil",
+    "German": "Shared_Oil",
+    "Italian": "Shared_Oil",
+    "Japanese": "Shared_Oil",
+    "Korean": "Shared_Oil",
+    "Polish": "Shared_Oil",
+    "Russian": "Shared_Oil",
+    "Spanish": "Shared_Oil",
+    "Taiwanese": "Shared_Oil"
+  },
+  "CreatorName": "Satanoy,Vaeloridas",
+  
+  "Description": {
+    "English": "Shared Product Oil",
+    "Chinese": "Shared Product Oil",
+    "French": "Shared Product Oil",
+    "German": "Shared Product Oil",
+    "Italian": "Shared Product Oil",
+    "Japanese": "Shared Product Oil",
+    "Korean": "Shared Product Oil",
+    "Polish": "Shared Product Oil",
+    "Russian": "Shared Product Oil",
+    "Spanish": "Shared Product Oil",
+    "Taiwanese": "Shared Product Oil"
+  }
+}
