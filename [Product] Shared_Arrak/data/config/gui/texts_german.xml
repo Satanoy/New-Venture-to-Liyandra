@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START Arrak -->
+    <Text>
+      <GUID>1900100246</GUID>
+      <Text>Arrak</Text>
+    </Text>
+    <Text>
+      <GUID>1900100247</GUID>
+      <Text>A distilled alcoholic beverage made from fermented plant-based ingredients.</Text>
+    </Text>
+  <Text>
+      <GUID>1889000388</GUID>
+      <Text>Fake Arrak Destillery</Text>
+  </Text>
+  </ModOp>
+</ModOps>

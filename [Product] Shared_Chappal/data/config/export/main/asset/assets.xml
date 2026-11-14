@@ -1,0 +1,137 @@
+<ModOps>
+   <!-- START ADD GOOD Chappal -->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100303</GUID>
+                    <Name>Chappal</Name>
+                    <IconFilename>data/ui/Icons/Chappal.png</IconFilename>
+                    <InfoDescription>1900100304</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>100</BasePrice>
+                    <CivLevel>2</CivLevel>
+                    <AssociatedRegion>Meta</AssociatedRegion>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>9</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Diplomacy</Attribute>
+                            <Amount>5</Amount>
+                        </Item>
+                    </ExpeditionAttributes>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+
+ <!-- START PRODUCTION Chappal -->
+ <ModOp Type="addNextSibling" GUID='1010343'>
+    <Asset>
+        <Template>FactoryBuilding7</Template>
+        <Values>
+            <Standard>
+                <GUID>1889000313</GUID>
+                <Name>Fake Chappal Workshop</Name>
+                <IconFilename>data/ui/Icons/Chappal.png</IconFilename>
+            </Standard>
+            <Building>
+                <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                <AssociatedRegions>Colony01</AssociatedRegions>
+                <SecondPartyRelevant>0</SecondPartyRelevant>
+            </Building>
+            <Cost>
+                <Costs>
+                    <Item>
+                        <Ingredient>1010017</Ingredient> 
+                        <Amount>200</Amount>
+                    </Item>
+                    <Item>
+                        <Ingredient>1010196</Ingredient> 
+                        <Amount>15</Amount>
+                    </Item>
+                </Costs>
+            </Cost>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/dlc06/graphics/buildings/production/production_colony02_12/production_colony02_12.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Selection>
+                <ParticipantMessageArcheType>SA_Resident_tier01_atWork</ParticipantMessageArcheType>
+            </Selection>
+            <SoundEmitter>
+                <ActiveSounds>
+                    <Item>
+                        <Sound>270300</Sound> 
+                    </Item>
+                    <Item>
+                        <Sound>270266</Sound>
+                    </Item>
+                </ActiveSounds>
+            </SoundEmitter>
+            <FactoryBase>
+                <FactoryInputs>
+                    <Item>
+                        <Product>5384</Product>
+                        <Amount>1</Amount>
+                        <StorageAmount>10</StorageAmount>
+                    </Item>
+                </FactoryInputs>
+                <FactoryOutputs>
+                    <Item>
+                        <Product>1900100303</Product> 
+                        <Amount>1</Amount>
+                        <StorageAmount>10</StorageAmount>
+                    </Item>
+                </FactoryOutputs>
+                <CycleTime>60</CycleTime>
+                <IsMainFactory>1</IsMainFactory>
+            </FactoryBase>
+            <Maintenance>
+                <Maintenances>
+                    <Item>
+                        <Product>1010017</Product> 
+                        <Amount>20</Amount>
+                        <InactiveAmount>50</InactiveAmount>
+                    </Item>
+                    <Item>
+                        <Product>1010366</Product> 
+                        <Amount>10</Amount>
+                    </Item>
+                </Maintenances>
+            </Maintenance>
+            <AmbientMoodProvider>
+                <Murmur>Factory</Murmur>
+              </AmbientMoodProvider>
+              <Attackable>
+                <AttackableType>IslandBuilding</AttackableType>
+                <MaximumHitPoints>5000</MaximumHitPoints>
+              </Attackable>
+              <Culture>
+                <Attractiveness>0</Attractiveness>
+                <HasPollution>1</HasPollution>
+              </Culture>
+            <Industrializable>
+                <BoostedByIndustrialization>1</BoostedByIndustrialization>
+            </Industrializable>
+        </Values>
+    </Asset>
+ </ModOp>
+
+
+    <!-- START ADD TO GLOBAL PRODUCTION POOLS -->
+    <ModOp Type="add" GUID="6000018,193856,368" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+         <Item>
+             <GUID>1889000313</GUID>
+         </Item>
+    </ModOp>
+</ModOps>

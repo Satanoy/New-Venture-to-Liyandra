@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+  <!-- START Chappal -->
+  <Text>
+    <GUID>1900100303</GUID>
+    <Text>Chappal</Text>
+  </Text>
+  <Text>
+    <GUID>19001002304</GUID>
+    <Text>Sandalias tradicionales utilizadas como calzado cotidiano.</Text>
+  </Text>
+    <Text>
+      <GUID>1889000313</GUID>
+      <Text>Fake Chappal Workshop</Text>
+    </Text>
+  </ModOp>
+</ModOps>

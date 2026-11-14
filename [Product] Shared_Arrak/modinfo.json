@@ -1,0 +1,51 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Arrak",
+  "ModDependencies": [
+    "Palm_Leaves"
+    ],
+  "LoadAfterIds": [
+    "Palm_Leaves"
+  ],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Arrak",
+    "Chinese": "Shared_Arrak",
+    "French": "Shared_Arrak",
+    "German": "Shared_Arrak",
+    "Italian": "Shared_Arrak",
+    "Japanese": "Shared_Arrak",
+    "Korean": "Shared_Arrak",
+    "Polish": "Shared_Arrak",
+    "Russian": "Shared_Arrak",
+    "Spanish": "Shared_Arrak",
+    "Taiwanese": "Shared_Arrak"
+  },
+  "CreatorName": "India mod Team",
+  
+  "Description": {
+    "English": "Shared Product Arrak",
+    "Chinese": "Shared Product Arrak",
+    "French": "Shared Product Arrak",
+    "German": "Shared Product Arrak",
+    "Italian": "Shared Product Arrak",
+    "Japanese": "Shared Product Arrak",
+    "Korean": "Shared Product Arrak",
+    "Polish": "Shared Product Arrak",
+    "Russian": "Shared Product Arrak",
+    "Spanish": "Shared Product Arrak",
+    "Taiwanese": "Shared Product Arrak"
+  }
+}

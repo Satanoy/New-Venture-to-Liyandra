@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+ <!-- START Biryani-->
+  <Text>
+    <GUID>1900100295</GUID>
+    <Text>Biryani</Text>
+  </Text>
+  <Text>
+    <GUID>1900100296</GUID>
+    <Text>Spiced rice dish prepared with meat, vegetables, and an aromatic blend of seasonings.</Text>
+  </Text>
+  <Text>
+      <GUID>1889000385</GUID>
+      <Text>Fake Biryani Kitchen</Text>
+  </Text>
+  </ModOp>
+</ModOps>

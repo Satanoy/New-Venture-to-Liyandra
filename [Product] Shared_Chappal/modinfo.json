@@ -1,0 +1,48 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Chappal",
+  "ModDependencies": [
+    ],
+
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Chappal",
+    "Chinese": "Shared_Chappal",
+    "French": "Shared_Chappal",
+    "German": "Shared_Chappal",
+    "Italian": "Shared_Chappal",
+    "Japanese": "Shared_Chappal",
+    "Korean": "Shared_Chappal",
+    "Polish": "Shared_Chappal",
+    "Russian": "Shared_Chappal",
+    "Spanish": "Shared_Chappal",
+    "Taiwanese": "Shared_Chappal"
+  },
+  "CreatorName": "India Mod Team",
+  
+  "Description": {
+    "English": "Shared Product Chappal",
+    "Chinese": "Shared Product Chappal",
+    "French": "Shared Product Chappal",
+    "German": "Shared Product Chappal",
+    "Italian": "Shared Product Chappal",
+    "Japanese": "Shared Product Chappal",
+    "Korean": "Shared Product Chappal",
+    "Polish": "Shared Product Chappal",
+    "Russian": "Shared Product Chappal",
+    "Spanish": "Shared Product Chappal",
+    "Taiwanese": "Shared Product Chappal"
+  }
+}

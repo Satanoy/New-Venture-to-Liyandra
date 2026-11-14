@@ -1,0 +1,51 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Biryani",
+  "ModDependencies": [
+    "rice-newhorizons"
+    ],
+  "LoadAfterIds": [
+    "rice-newhorizons"
+  ],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Biryani",
+    "Chinese": "Shared_Biryani",
+    "French": "Shared_Biryani",
+    "German": "Shared_Biryani",
+    "Italian": "Shared_Biryani",
+    "Japanese": "Shared_Biryani",
+    "Korean": "Shared_Biryani",
+    "Polish": "Shared_Biryani",
+    "Russian": "Shared_Biryani",
+    "Spanish": "Shared_Biryani",
+    "Taiwanese": "Shared_Biryani"
+  },
+  "CreatorName": "India mod Team",
+  
+  "Description": {
+    "English": "Shared Product Biryani",
+    "Chinese": "Shared Product Biryani",
+    "French": "Shared Product Biryani",
+    "German": "Shared Product Biryani",
+    "Italian": "Shared Product Biryani",
+    "Japanese": "Shared Product Biryani",
+    "Korean": "Shared Product Biryani",
+    "Polish": "Shared Product Biryani",
+    "Russian": "Shared Product Biryani",
+    "Spanish": "Shared Product Biryani",
+    "Taiwanese": "Shared Product Biryani"
+  }
+}
