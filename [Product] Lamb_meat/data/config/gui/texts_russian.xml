@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+   <!-- START Lamb meat -->
+    <Text>
+      <GUID>1900100152</GUID>
+      <Text>Lamb meat</Text>
+    </Text>
+    <Text>
+      <GUID>1900100153</GUID>
+      <Text>Valued for its distinctive flavor and its use in many dishes.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000391</GUID>
+      <Text>Fake slaughterhouse</Text>
+    </Text>
+  </ModOp>
+</ModOps>

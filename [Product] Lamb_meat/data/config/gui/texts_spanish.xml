@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- INICIO Carne de cordero -->
+    <Text>
+      <GUID>1900100152</GUID>
+      <Text>Carne de cordero</Text>
+    </Text>
+    <Text>
+      <GUID>1900100153</GUID>
+      <Text>Valorada por su sabor distintivo y su uso en muchos platos.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000391</GUID>
+      <Text>Fake slaughterhouse</Text>
+    </Text>
+  </ModOp>
+</ModOps>
