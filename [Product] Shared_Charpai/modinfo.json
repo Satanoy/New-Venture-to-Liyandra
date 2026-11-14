@@ -1,0 +1,48 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Charpai",
+  "ModDependencies": [
+    ],
+
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Charpai",
+    "Chinese": "Shared_Charpai",
+    "French": "Shared_Charpai",
+    "German": "Shared_Charpai",
+    "Italian": "Shared_Charpai",
+    "Japanese": "Shared_Charpai",
+    "Korean": "Shared_Charpai",
+    "Polish": "Shared_Charpai",
+    "Russian": "Shared_Charpai",
+    "Spanish": "Shared_Charpai",
+    "Taiwanese": "Shared_Charpai"
+  },
+  "CreatorName": "India Mod Team",
+  
+  "Description": {
+    "English": "Shared Product Charpai",
+    "Chinese": "Shared Product Charpai",
+    "French": "Shared Product Charpai",
+    "German": "Shared Product Charpai",
+    "Italian": "Shared Product Charpai",
+    "Japanese": "Shared Product Charpai",
+    "Korean": "Shared Product Charpai",
+    "Polish": "Shared Product Charpai",
+    "Russian": "Shared Product Charpai",
+    "Spanish": "Shared Product Charpai",
+    "Taiwanese": "Shared Product Charpai"
+  }
+}

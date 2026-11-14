@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+  <!-- START Charpai -->
+  <Text>
+    <GUID>1900100307</GUID>
+    <Text>Charpai</Text>
+  </Text>
+  <Text>
+    <GUID>19001002308</GUID>
+    <Text>Traditional woven bed used for everyday rest.</Text>
+  </Text>
+    <Text>
+      <GUID>1889000387</GUID>
+      <Text>Fake Charpai Workshop</Text>
+    </Text>
+  </ModOp>
+</ModOps>
