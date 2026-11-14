@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+   <!-- INICIO Plumas de pavo real -->
+    <Text>
+      <GUID>1900100272</GUID>
+      <Text>Plumas de pavo real</Text>
+    </Text>
+    <Text>
+      <GUID>1900100273</GUID>
+      <Text>Valoradas por sus colores vivos y su uso en ornamentos y objetos decorativos.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000390</GUID>
+      <Text>Fake Hunting Cabin</Text>
+    </Text>
+  </ModOp>
+</ModOps>

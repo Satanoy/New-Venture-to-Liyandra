@@ -1,0 +1,46 @@
+{
+  "Version": "1.0",
+  "ModID": "Peacock_Feathers",
+  "LoadAfterIds": [],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Peacock_feathers",
+    "Chinese": "Peacock_feathers",
+    "French": "Peacock_feathers",
+    "German": "Peacock_feathers",
+    "Italian": "Peacock_feathers",
+    "Japanese": "Peacock_feathers",
+    "Korean": "Peacock_feathers",
+    "Polish": "Peacock_feathers",
+    "Russian": "Peacock_feathers",
+    "Spanish": "Peacock_feathers",
+    "Taiwanese": "Peacock_feathers"
+  },
+  "CreatorName": "India Mod Team",
+  
+  "Description": {
+    "English": "Shared Product Peacock Feathers",
+    "Chinese": "Shared Product Peacock Feathers",
+    "French": "Shared Product Peacock Feathers",
+    "German": "Shared Product Peacock Feathers",
+    "Italian": "Shared Product Peacock Feathers",
+    "Japanese": "Shared Product Peacock Feathers",
+    "Korean": "Shared Product Peacock Feathers",
+    "Polish": "Shared Product Peacock Feathers",
+    "Russian": "Shared Product Peacock Feathers",
+    "Spanish": "Shared Product Peacock Feathers",
+    "Taiwanese": "Shared Product Peacock Feathers"
+  }
+}

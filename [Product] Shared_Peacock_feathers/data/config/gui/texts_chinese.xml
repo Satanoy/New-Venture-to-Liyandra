@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+   <!-- START Peacock feathers-->
+    <Text>
+      <GUID>1900100272</GUID>
+      <Text>Peacock feathers</Text>
+    </Text>
+    <Text>
+      <GUID>1900100273</GUID>
+      <Text>Valued for their vivid colors and their use in ornaments and decorative items.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000390</GUID>
+      <Text>Fake Hunting Cabin</Text>
+    </Text>
+  </ModOp>
+</ModOps>
