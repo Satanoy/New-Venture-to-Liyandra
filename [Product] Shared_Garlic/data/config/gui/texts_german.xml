@@ -1,0 +1,22 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START Garlic-->
+    <Text>
+      <GUID>1900100274</GUID>
+      <Text>Garlic</Text>
+    </Text>
+    <Text>
+      <GUID>1900100275</GUID>
+      <Text>An aromatic bulb used as a seasoning in a wide variety of dishes.</Text>
+    </Text>
+  <!-- Garlic farm -->
+    <Text>
+      <GUID>1889000383</GUID>
+      <Text>Garlic Farm</Text>
+    </Text>
+    <Text>
+      <GUID>1889000384</GUID>
+      <Text>Garlic Fertility</Text>
+    </Text>
+  </ModOp>
+</ModOps>

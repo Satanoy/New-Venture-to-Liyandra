@@ -1,0 +1,46 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Garlic",
+  "LoadAfterIds": [],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Garlic",
+    "Chinese": "Shared_Garlic",
+    "French": "Shared_Garlic",
+    "German": "Shared_Garlic",
+    "Italian": "Shared_Garlic",
+    "Japanese": "Shared_Garlic",
+    "Korean": "Shared_Garlic",
+    "Polish": "Shared_Garlic",
+    "Russian": "Shared_Garlic",
+    "Spanish": "Shared_Garlic",
+    "Taiwanese": "Shared_Garlic"
+  },
+  "CreatorName": "India mod Team",
+  
+  "Description": {
+    "English": "Shared Product Garlic",
+    "Chinese": "Shared Product Garlic",
+    "French": "Shared Product Garlic",
+    "German": "Shared Product Garlic",
+    "Italian": "Shared Product Garlic",
+    "Japanese": "Shared Product Garlic",
+    "Korean": "Shared Product Garlic",
+    "Polish": "Shared Product Garlic",
+    "Russian": "Shared Product Garlic",
+    "Spanish": "Shared Product Garlic",
+    "Taiwanese": "Shared Product Garlic"
+  }
+}

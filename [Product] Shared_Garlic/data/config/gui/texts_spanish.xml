@@ -1,0 +1,22 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- INICIO Ajo -->
+    <Text>
+      <GUID>1900100274</GUID>
+      <Text>Ajo</Text>
+    </Text>
+    <Text>
+      <GUID>1900100275</GUID>
+      <Text>Un bulbo aromático utilizado como condimento en una amplia variedad de platos.</Text>
+    </Text>
+  <!-- Garlic farm -->
+    <Text>
+      <GUID>1889000383</GUID>
+      <Text>Garlic Farm</Text>
+    </Text>
+    <Text>
+      <GUID>1889000384</GUID>
+      <Text>Fertilidad de Ajo</Text>
+    </Text>
+  </ModOp>
+</ModOps>
