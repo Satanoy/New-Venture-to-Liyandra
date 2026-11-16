@@ -1,0 +1,48 @@
+<ModOps>
+  <!-- Adds a line to the construction menu infotip when hovering over Advanced Salt Works -->
+  <ModOp Type="addNextSibling" Path ="//InfoTipData[Guid='25000020']/InfoElement/InfoElement/InfoElement/InfoElement[VisibilityElement/VisibilityElement/VisibilityElement/ExpectedValueInt='101269'][1]" Condition="#shared_goods_clean_water">
+    <InfoElement>
+      <ElementType>4</ElementType>
+      <VisibilityElement>
+        <ElementType>
+          <ElementType>2</ElementType>
+        </ElementType>
+        <ChildCount>1</ChildCount>
+        <VisibilityElement>
+          <ElementType>
+            <ElementType>2</ElementType>
+          </ElementType>
+          <ChildCount>3</ChildCount>
+          <VisibilityElement>
+            <ElementType>
+              <ElementType>1</ElementType>
+            </ElementType>
+            <CompareOperator />
+            <ResultType>
+              <ResultType>1</ResultType>
+            </ResultType>
+            <ExpectedValueInt>1500302161</ExpectedValueInt> <!-- Advanced Salt Works -->
+            <Condition>[RefGuid]</Condition>
+          </VisibilityElement>
+          <OperatorType />
+        </VisibilityElement>
+        <OperatorType />
+      </VisibilityElement>
+      <Icon>
+        <IconGUID>1742100242</IconGUID><!-- Water -->
+        <Style />
+      </Icon>
+      <Text>
+        <TextGUID>1742100242</TextGUID><!-- Water -->
+        <Style />
+      </Text>
+      <Value>
+        <Text>1</Text>
+        <Style />
+      </Value>
+      <WarningType />
+      <BackgroundType />
+    </InfoElement>
+  </ModOp>
+
+</ModOps>
