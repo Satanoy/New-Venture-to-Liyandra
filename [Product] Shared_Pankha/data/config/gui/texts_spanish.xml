@@ -1,0 +1,18 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- INICIO Pankha -->
+    <Text>
+      <GUID>1900100289</GUID>
+      <Text>Pankha</Text>
+    </Text>
+    <Text>
+      <GUID>1900100290</GUID>
+      <Text>Un abanico tradicional utilizado para refrescar el aire en espacios interiores.</Text>
+    </Text>
+  </ModOp>
+    <Text>
+      <GUID>1416000336</GUID>
+      <Text>Fake Pankha Workshop</Text>
+    </Text>
+  </ModOp>
+</ModOps>

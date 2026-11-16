@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START Pankha-->
+    <Text>
+      <GUID>1900100289</GUID>
+      <Text>Pankha</Text>
+    </Text>
+    <Text>
+      <GUID>1900100290</GUID>
+      <Text>A traditional fan used to cool the air in indoor spaces.</Text>
+    </Text>
+    <Text>
+      <GUID>1416000336</GUID>
+      <Text>Fake Pankha Workshop</Text>
+    </Text>
+  </ModOp>
+</ModOps>

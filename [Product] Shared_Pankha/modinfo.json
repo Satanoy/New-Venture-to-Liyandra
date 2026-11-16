@@ -1,0 +1,48 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Pankha",
+  "ModDependencies": [
+    ],
+
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Pankha",
+    "Chinese": "Shared_Pankha",
+    "French": "Shared_Pankha",
+    "German": "Shared_Pankha",
+    "Italian": "Shared_Pankha",
+    "Japanese": "Shared_Pankha",
+    "Korean": "Shared_Pankha",
+    "Polish": "Shared_Pankha",
+    "Russian": "Shared_Pankha",
+    "Spanish": "Shared_Pankha",
+    "Taiwanese": "Shared_Pankha"
+  },
+  "CreatorName": "India Mod Team",
+  
+  "Description": {
+    "English": "Shared Product Pankha",
+    "Chinese": "Shared Product Pankha",
+    "French": "Shared Product Pankha",
+    "German": "Shared Product Pankha",
+    "Italian": "Shared Product Pankha",
+    "Japanese": "Shared Product Pankha",
+    "Korean": "Shared Product Pankha",
+    "Polish": "Shared Product Pankha",
+    "Russian": "Shared Product Pankha",
+    "Spanish": "Shared Product Pankha",
+    "Taiwanese": "Shared Product Pankha"
+  }
+}
