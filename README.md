@@ -5,12 +5,30 @@ Venture to Liyandra (Pre-alpha and so on).
 This mod is intended to be quite extensive and is currently under development.
 
 
+Ultimately, if everything goes well, this could serve as a gateway to another mod based on India.
+
+
 The team includes:
 
 -Vaeloridas, Panther, Satanoy, and the India Mod team (Dinodude, Fridmhyr, and Arithon).
 
+The plot:
 
-Ultimately, if everything goes well, this could serve as a gateway to another mod based on India.
+Venture to Liyandra
+
+"Captain, we've discovered new lands!"
+
+In search of "new horizons", the pioneers of the Crown have discovered a new region beyond the sun-drenched lands of "Wadi al-Zahir" and the Embesan territories.
+
+Before them lie wild lands, seemingly uninhabited and rich in natural resources, awaiting exploration.
+
+The region has been named Liyandra, in honor of the first ship to venture into its waters and pave the way to these new lands.
+
+Your outstanding service and administrative skills have not gone unnoticed by Her Majesty. The Queen has chosen you to take charge of this new region, explore its territories, and harness its riches in the name of the Crown.
+
+The pioneers welcome you to Liyandra.
+
+
 
 <img width="1666" height="1024" alt="banner venture" src="https://github.com/user-attachments/assets/353a0b5e-4547-46e0-b0b3-2cb4793e580e" />
 
