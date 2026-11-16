@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+   <!-- START Sarees -->
+    <Text>
+      <GUID>1900100252</GUID>
+      <Text>Sarees</Text>
+    </Text>
+    <Text>
+      <GUID>1900100253</GUID>
+      <Text>Traditional garments made from light fabrics and decorated with varied patterns.</Text>
+    </Text>
+    <Text>
+      <GUID>1416000328</GUID>
+      <Text>Saare Workshop</Text>
+    </Text>
+  </ModOp>
+</ModOps>
