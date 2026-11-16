@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+  <!-- START Paai-->
+  <Text>
+    <GUID>1900100318</GUID>
+    <Text>Paai</Text>
+  </Text>
+  <Text>
+    <GUID>1900100319</GUID>
+    <Text>A traditional mat used as a surface for sitting or resting.</Text>
+  </Text>
+    <Text>
+      <GUID>1416000337</GUID>
+      <Text>Fake Paai Workshop</Text>
+    </Text>
+  </ModOp>
+</ModOps>

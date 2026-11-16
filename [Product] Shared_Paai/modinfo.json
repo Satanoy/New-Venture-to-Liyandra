@@ -1,0 +1,48 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Paai",
+  "ModDependencies": [
+    ],
+
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Paai",
+    "Chinese": "Shared_Paai",
+    "French": "Shared_Paai",
+    "German": "Shared_Paai",
+    "Italian": "Shared_Paai",
+    "Japanese": "Shared_Paai",
+    "Korean": "Shared_Paai",
+    "Polish": "Shared_Paai",
+    "Russian": "Shared_Paai",
+    "Spanish": "Shared_Paai",
+    "Taiwanese": "Shared_Paai"
+  },
+  "CreatorName": "India Mod Team",
+  
+  "Description": {
+    "English": "Shared Product Paai",
+    "Chinese": "Shared Product Paai",
+    "French": "Shared Product Paai",
+    "German": "Shared Product Paai",
+    "Italian": "Shared Product Paai",
+    "Japanese": "Shared Product Paai",
+    "Korean": "Shared Product Paai",
+    "Polish": "Shared Product Paai",
+    "Russian": "Shared Product Paai",
+    "Spanish": "Shared Product Paai",
+    "Taiwanese": "Shared Product Paai"
+  }
+}
