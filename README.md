@@ -29,6 +29,6 @@ Your outstanding service and administrative skills have not gone unnoticed by He
 The pioneers welcome you to Liyandra.
 
 
+<img width="1666" height="1024" alt="Venture to liyandra baner" src="https://github.com/user-attachments/assets/5abd3c14-689a-4662-80a9-719657c0b43d" />
 
-<img width="1666" height="1024" alt="banner venture" src="https://github.com/user-attachments/assets/353a0b5e-4547-46e0-b0b3-2cb4793e580e" />
 
