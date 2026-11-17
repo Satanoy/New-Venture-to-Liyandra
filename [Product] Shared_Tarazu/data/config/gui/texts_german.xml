@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+  <!-- START Tarazu -->
+  <Text>
+    <GUID>1900100305</GUID>
+    <Text>Tarazu</Text>
+  </Text>
+  <Text>
+    <GUID>19001002306</GUID>
+    <Text>Traditional scale used to weigh goods and trade commodities.</Text>
+  </Text>
+    <Text>
+      <GUID>1416000349</GUID>
+      <Text>Fake Tarazu Workshop</Text>
+    </Text>
+  </ModOp>
+</ModOps>
