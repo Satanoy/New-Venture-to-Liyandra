@@ -1,0 +1,51 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Pongal",
+  "ModDependencies": [
+    "rice-newhorizons"
+    ],
+  "LoadAfterIds": [
+    "rice-newhorizons"
+  ],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Pongal",
+    "Chinese": "Shared_Pongal",
+    "French": "Shared_Pongal",
+    "German": "Shared_Pongal",
+    "Italian": "Shared_Pongal",
+    "Japanese": "Shared_Pongal",
+    "Korean": "Shared_Pongal",
+    "Polish": "Shared_Pongal",
+    "Russian": "Shared_Pongal",
+    "Spanish": "Shared_Pongal",
+    "Taiwanese": "Shared_Pongal"
+  },
+  "CreatorName": "India mod Team",
+  
+  "Description": {
+    "English": "Shared Product Pongal",
+    "Chinese": "Shared Product Pongal",
+    "French": "Shared Product Pongal",
+    "German": "Shared Product Pongal",
+    "Italian": "Shared Product Pongal",
+    "Japanese": "Shared Product Pongal",
+    "Korean": "Shared Product Pongal",
+    "Polish": "Shared Product Pongal",
+    "Russian": "Shared Product Pongal",
+    "Spanish": "Shared Product Pongal",
+    "Taiwanese": "Shared Product Pongal"
+  }
+}

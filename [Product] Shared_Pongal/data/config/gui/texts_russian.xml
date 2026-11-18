@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+  <!-- START Pongal -->
+  <Text>
+    <GUID>1900100316</GUID>
+    <Text>Pongal</Text>
+  </Text>
+  <Text>
+    <GUID>1900100317</GUID>
+    <Text>A traditional rice dish cooked with milk and other aromatic ingredients.</Text>
+  </Text>
+  <Text>
+      <GUID>1416000354</GUID>
+      <Text>Fake Pongal Kitchen</Text>
+  </Text>
+  </ModOp>
+</ModOps>
