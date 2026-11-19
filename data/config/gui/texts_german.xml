@@ -1,0 +1,682 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+<!-- START Products-->
+    <!-- Raw Lac-->
+     <Text>
+      <GUID>1416000000</GUID>
+      <Text>Raw Lac</Text>
+    </Text>
+    <!-- Shellac -->
+     <Text>
+      <GUID>1416000003</GUID>
+      <Text>Shellac</Text>
+    </Text>
+    <!-- Koji-->
+     <Text>
+      <GUID>1416000010</GUID>
+      <Text>Koji</Text>
+    </Text>
+    <!-- Intarsia-->
+     <Text>
+      <GUID>1416000005</GUID>
+      <Text>Intarsia</Text>
+    </Text>
+    <!-- Gum Arabic-->
+     <Text>
+      <GUID>1416000002</GUID>
+      <Text>Gum Arabic</Text>
+    </Text>
+   <!-- Ramie Seed-->
+     <Text>
+      <GUID>1416000015</GUID>
+      <Text>Ramie Seed</Text>
+    </Text>
+   <!-- Regimental Pipe-->
+     <Text>
+      <GUID>1416000030</GUID>
+      <Text>Regimental Pipe</Text>
+    </Text>
+   <!-- Memo Book-->
+     <Text>
+      <GUID>1416000031</GUID>
+      <Text>Memo Book</Text>
+    </Text>
+   <!-- Lorgnettes-->
+     <Text>
+      <GUID>1416000034</GUID>
+      <Text>Lorgnettes</Text>
+    </Text>
+   <!-- Enamel-->
+     <Text>
+      <GUID>1416000036</GUID>
+      <Text>Enamel</Text>
+    </Text>
+   <!-- Ebonite-->
+     <Text>
+      <GUID>1416000037</GUID>
+      <Text>Ebonite</Text>
+    </Text>
+   <!-- Acetyl-->
+     <Text>
+      <GUID>1416000039</GUID>
+      <Text>Acetyl</Text>
+    </Text>
+   <!-- Glycerine-->
+     <Text>
+      <GUID>1416000040</GUID>
+      <Text>Glycerine</Text>
+    </Text>
+   <!-- Umbrellas-->
+     <Text>
+      <GUID>1416000041</GUID>
+      <Text>Umbrellas</Text>
+    </Text>
+   <!-- Calculating Machines-->
+     <Text>
+      <GUID>1416000042</GUID>
+      <Text>Calculating Machines</Text>
+    </Text>
+   <!-- Gem Necklace-->
+     <Text>
+      <GUID>1416000043</GUID>
+      <Text>Gem Necklace</Text>
+    </Text>
+   <!-- Iron Cast-->
+     <Text>
+      <GUID>1416000045</GUID>
+      <Text>Iron Cast</Text>
+    </Text>
+   <!-- Laundry Equipment-->
+     <Text>
+      <GUID>1416000046</GUID>
+      <Text>Laundry Equipment</Text>
+    </Text>
+   <!-- Vaccum Cleaner -->
+     <Text>
+      <GUID>1416000137</GUID>
+      <Text>Vaccum Cleaner</Text>
+     </Text>
+   <!-- Spinning Wheels-->
+     <Text>
+      <GUID>1416000047</GUID>
+      <Text>Spinning Wheels</Text>
+     </Text>
+   <!-- Rotary Iron-->
+     <Text>
+      <GUID>1416000048</GUID>
+      <Text>Rotary Iron</Text>
+     </Text>
+   <!-- Wash Board-->
+     <Text>
+      <GUID>1416000049</GUID>
+      <Text>Wash Board</Text>
+     </Text>
+   <!-- valets-->
+     <Text>
+      <GUID>1416000093</GUID>
+      <Text>Valets</Text>
+     </Text>
+   <!-- Gowns-->
+     <Text>
+      <GUID>1416000094</GUID>
+      <Text>Gowns</Text>
+     </Text>
+   <!-- Ballroom Shoes-->
+     <Text>
+      <GUID>1416000095</GUID>
+      <Text>Ballroom Shoes</Text>
+     </Text>
+   <!-- Chronometer-->
+     <Text>
+      <GUID>1416000096</GUID>
+      <Text>Chronometer</Text>
+     </Text>
+   <!-- Mechanical Merriment-->
+     <Text>
+      <GUID>1416000097</GUID>
+      <Text>Mechanical Merriment</Text>
+     </Text>
+   <!-- Chandelier-->
+     <Text>
+      <GUID>1416000098</GUID>
+      <Text>Chandelier</Text>
+     </Text>
+   <!-- Longcase Clocks-->
+     <Text>
+      <GUID>1416000099</GUID>
+      <Text>Longcase Clocks</Text>
+     </Text>
+   <!-- Stove -->
+     <Text>
+      <GUID>1416000044</GUID>
+      <Text>Stove</Text>
+     </Text>
+   <!-- Nickel-->
+     <Text>
+      <GUID>1416000126</GUID>
+      <Text>Nickel Ore</Text>
+     </Text>
+   <!-- Raney Nickel-->
+     <Text>
+      <GUID>1416000127</GUID>
+      <Text>Raney Nickel</Text>
+     </Text>
+   <!-- polish-->
+     <Text>
+      <GUID>1416000128</GUID>
+      <Text>Polish</Text>
+     </Text>
+   <!-- cogwheels-->
+     <Text>
+      <GUID>1416000129</GUID>
+      <Text>cogwheels</Text>
+     </Text>
+    <!-- Snakes-->
+     <Text>
+      <GUID>1416000153</GUID>
+      <Text>Snakes</Text>
+     </Text>
+    <!-- Snakes Skin-->
+     <Text>
+      <GUID>1416000154</GUID>
+      <Text>Snake Skin</Text>
+     </Text>
+    <!-- Stucco-->
+     <Text>
+      <GUID>1416000162</GUID>
+      <Text>Stucco</Text>
+     </Text>
+    <!-- Clams-->
+     <Text>
+      <GUID>1416000163</GUID>
+      <Text>Clams</Text>
+     </Text>
+    <!-- Mother-Of-Pearl -->
+     <Text>
+      <GUID>1416000164</GUID>
+      <Text>Mother-Of-Pearl</Text>
+     </Text>
+    <!--Tin Ore -->
+     <Text>
+      <GUID>1416000166</GUID>
+      <Text>Tin Ore</Text>
+     </Text>
+    <!--Abrasives-->
+     <Text>
+      <GUID>1416000120</GUID>
+      <Text>Abrasives</Text>
+     </Text>
+    <!--Ceremonial Sabers-->
+     <Text>
+      <GUID>1404000238</GUID>
+      <Text>Ceremonial Sabers</Text>
+     </Text>
+    <!--Coffee Grinder-->
+     <Text>
+      <GUID>1416000108</GUID>
+      <Text>Coffee Grinder</Text>
+     </Text>
+    <!--Duel Grounds-->
+     <Text>
+      <GUID>1416000183</GUID>
+      <Text>Duel Grounds</Text>
+     </Text>
+    <!--Gourmet Dinner Service-->
+     <Text>
+      <GUID>1416000186</GUID>
+      <Text>Gourmet Dinner Service</Text>
+     </Text>
+    <!--pharmacy-->
+     <Text>
+      <GUID>1416000188</GUID>
+      <Text>Pharmacy</Text>
+     </Text>
+
+<!-- START Agro Buildings-->
+   <!-- Koji Plantation-->
+     <Text>
+      <GUID>1900100018</GUID>
+      <Text>Koji Plantation</Text>
+    </Text>
+    <!-- Raw Lac Orchard-->
+     <Text>
+      <GUID>1416000001</GUID>
+      <Text>Raw Lac Orchard</Text>
+    </Text>
+    <!-- Myrthle Heath Orchard-->
+     <Text>
+      <GUID>1416000014</GUID>
+      <Text>Gum Arabic Orchard</Text>
+    </Text>
+    <!-- Ramie Seed orchard-->
+     <Text>
+      <GUID>1416000016</GUID>
+      <Text>Ramie Seed orchard</Text>
+    </Text>
+    <!-- Curcuma Farmd-->
+     <Text>
+      <GUID>1416000134</GUID>
+      <Text>Curcuma Farm</Text>
+    </Text>
+    <!-- Curcuma Field-->
+     <Text>
+      <GUID>1416000135</GUID>
+      <Text>Curcuma Field</Text>
+    </Text>
+    <!-- Snakes Hunter's Cabin-->
+     <Text>
+      <GUID>1416000155</GUID>
+      <Text>Snakes Hunter's Cabin</Text>
+    </Text>
+    <!-- Clam Farm -->
+     <Text>
+      <GUID>1416000165</GUID>
+      <Text>Clams Farm</Text>
+    </Text>
+    <!-- Snakes Hunter's Cabin-->
+    <Text>
+      <GUID>1416000173</GUID>
+      <Text>Hunting Cabin</Text>
+    </Text>
+    <!-- Aloe Vera Farm-->
+    <Text>
+      <GUID>1416000191</GUID>
+      <Text>Aloe Vera Farm</Text>
+    </Text>
+    <!-- Aloe Vera Farm Field-->
+    <Text>
+      <GUID>1416000192</GUID>
+      <Text>Aloe Vera Farm Field</Text>
+    </Text>
+    <!-- Aloe Vera Farm-->
+    <Text>
+      <GUID>1416000193</GUID>
+      <Text>Roses Farm</Text>
+    </Text>
+    <!-- Aloe Vera Farm Field-->
+    <Text>
+      <GUID>1416000194</GUID>
+      <Text>Roses Farm Field</Text>
+    </Text>
+
+<!-- Start Services-->
+   <Text>
+      <GUID>1416000028</GUID>
+      <Text>Financial Center</Text>
+   </Text>
+   <Text>
+      <GUID>1416000029</GUID>
+      <Text>From these hallowed halls, the true elite orchestrate their grandest commercial ventures across the distant seas</Text>
+    </Text>
+    <Text>
+      <GUID>1416000106</GUID>
+      <Text>Valet School</Text>
+   </Text>
+   <Text>
+      <GUID>1416000184</GUID>
+      <Text>Duel Grounds</Text>
+   </Text>
+   <Text>
+      <GUID>1416000187</GUID>
+      <Text>Gourmet Dinner Service</Text>
+   </Text>
+   <Text>
+      <GUID>1416000189</GUID>
+      <Text>Pharmacy</Text>
+     </Text>
+
+<!-- Start Prod buildings-->
+   <Text>
+      <GUID>1416000068</GUID>
+      <Text>Iron Foundry</Text>
+   </Text>
+   <Text>
+      <GUID>1416000072</GUID>
+      <Text>Enamel Works</Text>
+   </Text>
+  <Text>
+      <GUID>1416000079</GUID>
+      <Text>Woodware Manufactory</Text>
+   </Text>
+   <Text>
+      <GUID>1416000083</GUID>
+      <Text>Equipment Factory</Text>
+   </Text>
+  <Text>
+      <GUID>1416000089</GUID>
+      <Text>Raney Smeltery</Text>
+   </Text>
+   <Text>
+      <GUID>1416000087</GUID>
+      <Text>Mixing Workshop</Text>
+   </Text>
+   <Text>
+      <GUID>1416000130</GUID>
+      <Text>Laundry Machinery Works</Text>
+   </Text>
+   <Text>
+      <GUID>1416000091</GUID>
+      <Text>Precision Foundry</Text>
+   </Text>
+   <Text>
+      <GUID>1416000085</GUID>
+      <Text>Spinning Wheel Factory</Text>
+   </Text>
+    <Text>
+      <GUID>1416000102</GUID>
+      <Text>Viscose Chemical Plant</Text>
+   </Text>
+    <Text>
+      <GUID>1416000148</GUID>
+      <Text>Ebonite Chemical Plant</Text>
+   </Text>
+   <Text>
+      <GUID>1416000107</GUID>
+      <Text>Glycerine Chemical Plant</Text>
+   </Text>
+   <Text>
+      <GUID>1416000149</GUID>
+      <Text>Ebonite Chemical Plant</Text>
+   </Text>
+   <Text>
+      <GUID>1416000150</GUID>
+      <Text>Pipe Manufactory</Text>
+   </Text>
+   <Text>
+      <GUID>1416000152</GUID>
+      <Text>Card Games Factory</Text>
+   </Text>
+   <Text>
+      <GUID>1416000124</GUID>
+      <Text>Pencil Workshop</Text>
+   </Text>
+   <Text>
+      <GUID>1416000156</GUID>
+      <Text>Snake skin tanner</Text>
+   </Text>
+   <Text>
+      <GUID>1416000158</GUID>
+      <Text>Bindery</Text>
+   </Text>
+   <Text>
+      <GUID>1416000160</GUID>
+      <Text>Stucco Workshop</Text>
+   </Text>
+   <Text>
+      <GUID>1416000118</GUID>
+      <Text>Kiln</Text>
+   </Text>
+   <Text>
+      <GUID>1416000167</GUID>
+      <Text>Mother of Pearl Cuttery</Text>
+   </Text>
+   <Text>
+      <GUID>1416000169</GUID>
+      <Text>Lorgnettes Workshop</Text>
+   </Text>
+   <Text>
+      <GUID>1416000174</GUID>
+      <Text>Ivory Workshop</Text>
+   </Text>
+   <Text>
+      <GUID>1416000171</GUID>
+      <Text>Ink Laboratory</Text>
+   </Text>
+   <Text>
+      <GUID>1416000176</GUID>
+      <Text>Swordsmith</Text>
+   </Text>
+   <Text>
+      <GUID>1416000115</GUID>
+      <Text>Coffee Mill Workshop</Text>
+   </Text>
+   <Text>
+      <GUID>1416000185</GUID>
+      <Text>Utensils Factory</Text>
+   </Text>
+   <Text>
+      <GUID>1416000195</GUID>
+      <Text>Rose Water Distillery</Text>
+   </Text>
+
+<!-- Start Mines-->
+   <Text>
+      <GUID>1416000122</GUID>
+      <Text>Nickel Mine</Text>
+   </Text>
+    <Text>
+      <GUID>1416000117</GUID>
+      <Text>Tin Quarry</Text>
+   </Text>
+
+<!-- Start Chain Prod-->
+   <Text>
+      <GUID>1416000069</GUID>
+      <Text>Iron Foundry</Text>
+   </Text>
+   <Text>
+      <GUID>1416000073</GUID>
+      <Text>Enamel Works</Text>
+   </Text>
+   <Text>
+      <GUID>1416000080</GUID>
+      <Text>Woodware Manufactory</Text>
+   </Text>
+   <Text>
+      <GUID>1416000084</GUID>
+      <Text>Equipment Factory</Text>
+   </Text>
+    <Text>
+      <GUID>1416000090</GUID>
+      <Text>Raney Smeltery</Text>
+   </Text>
+   <Text>
+      <GUID>1416000088</GUID>
+      <Text>Mixing Workshop</Text>
+   </Text>
+     <Text>
+      <GUID>1416000131</GUID>
+      <Text>Laundry Machinery Works</Text>
+   </Text>
+   <Text>
+      <GUID>1416000092</GUID>
+      <Text>Precision Foundry</Text>
+   </Text>
+     <Text>
+      <GUID>1416000086</GUID>
+      <Text>Spinning Wheel Factory</Text>
+   </Text>
+    <Text>
+      <GUID>1416000151</GUID>
+      <Text>Pipe Manufactory</Text>
+   </Text>
+   <Text>
+      <GUID>1416000104</GUID>
+      <Text>Card Games Factory</Text>
+   </Text>
+   <Text>
+      <GUID>1416000125</GUID>
+      <Text>Pencil Workshop</Text>
+   </Text>
+   <Text>
+      <GUID>1416000157</GUID>
+      <Text>Snake skin tanner</Text>
+   </Text>
+    <Text>
+      <GUID>1416000159</GUID>
+      <Text>Bindery</Text>
+   </Text>
+   <Text>
+      <GUID>1416000161</GUID>
+      <Text>Stucco Workshop</Text>
+   </Text>
+   <Text>
+      <GUID>1416000119</GUID>
+      <Text>Kiln</Text>
+   </Text>
+   <Text>
+      <GUID>1416000168</GUID>
+      <Text>Mother of Pearl Cuttery</Text>
+   </Text>
+   <Text>
+      <GUID>1416000170</GUID>
+      <Text>Mother of Pearl Cuttery</Text>
+   </Text>
+    <Text>
+      <GUID>1416000175</GUID>
+      <Text>Ivory Workshop</Text>
+   </Text>
+    <Text>
+      <GUID>1416000172</GUID>
+      <Text>Ink Laboratory</Text>
+   </Text>
+   <Text>
+      <GUID>1416000177</GUID>
+      <Text>Swordsmith</Text>
+   </Text>
+   <Text>
+      <GUID>1416000116</GUID>
+      <Text>Coffee Mill Workshop</Text>
+   </Text>
+   <Text>
+      <GUID>1416000076</GUID>
+      <Text>Utensils Factory</Text>
+   </Text>
+   <Text>
+      <GUID>1416000197</GUID>
+      <Text>Rose Water Distillery</Text>
+   </Text>
+
+<!-- START Tabs-->
+     <Text>
+      <GUID>1416000032</GUID>
+      <Text>Pioneers</Text>
+    </Text>
+    <Text>
+      <GUID>1416000133</GUID>
+      <Text>Horai Orchards</Text>
+    </Text>
+    <Text>
+      <GUID>1416000103</GUID>
+      <Text>Pioneers Chemical Plants</Text>
+   </Text>
+    <Text>
+      <GUID>1416000196</GUID>
+      <Text>New Embesan Agriculture</Text>
+   </Text>
+
+<!-- Start Buffs-->
+   <Text>
+      <GUID>1416000065</GUID>
+      <Text>Financial Center</Text>
+   </Text>
+   <Text>
+      <GUID>1416000065</GUID>
+      <Text>The Financial Center affects the quality of life of your citizens</Text>
+    </Text>
+    <Text>
+      <GUID>1416000180</GUID>
+      <Text>Valet Service</Text>
+   </Text>
+   <Text>
+      <GUID>1416000181</GUID>
+      <Text>Highly educated staff providing assistance to your upper classes.</Text>
+    </Text>
+    <Text>
+      <GUID>1416000190</GUID>
+      <Text>Pharmacy</Text>
+   </Text>
+   <Text>
+      <GUID>1416000191</GUID>
+      <Text>The proximity of a pharmacy improves the quality of life and health of your citizens.</Text>
+    </Text>
+<!-- START Customs pools-->
+    <Text>
+      <GUID>1416000050</GUID>
+      <Text>Pioneers Consumer Goods</Text>
+    </Text>
+    <Text>
+      <GUID>1416000051</GUID>
+      <Text>Pioneers Unlock Goods</Text>
+    </Text>
+    <Text>
+      <GUID>1416000063</GUID>
+      <Text>Servants Unlock Goods</Text>
+    </Text>
+     <Text>
+      <GUID>1416000064</GUID>
+      <Text>Servants Unlock Goods</Text>
+    </Text>
+    <Text>
+      <GUID>1416000136</GUID>
+      <Text>ALL servant factories</Text>
+    </Text>
+<!-- START Tiers-->
+    <Text>
+      <GUID>1416000055</GUID>
+      <Text>Servants</Text>
+    </Text>
+    <Text>
+      <GUID>1416000056</GUID>
+      <Text>Servants Workforce</Text>
+    </Text>
+    <Text>
+      <GUID>1416000057</GUID>
+      <Text>Servants None</Text>
+    </Text>
+    <Text>
+      <GUID>1416000058</GUID>
+      <Text>Servants Unhappy</Text>
+    </Text>
+    <Text>
+      <GUID>1416000059</GUID>
+      <Text>Servants Content</Text>
+    </Text>
+    <Text>
+      <GUID>1416000060</GUID>
+      <Text>Servants Happy</Text>
+    </Text>
+    <Text>
+      <GUID>1416000061</GUID>
+      <Text>Servants Perfect</Text>
+    </Text>
+    <Text>
+      <GUID>1416000062</GUID>
+      <Text>Servant House</Text>
+    </Text>
+
+    <Text>
+      <GUID>1416000138</GUID>
+      <Text>Pioneer</Text>
+    </Text>
+    <Text>
+      <GUID>1416000145</GUID>
+      <Text>Pioneer Workforce</Text>
+    </Text>
+    <Text>
+      <GUID>1416000139</GUID>
+      <Text>Pioneer None</Text>
+    </Text>
+    <Text>
+      <GUID>1416000140</GUID>
+      <Text>Pioneer Unhappy</Text>
+    </Text>
+    <Text>
+      <GUID>1416000141</GUID>
+      <Text>Pioneer Content</Text>
+    </Text>
+    <Text>
+      <GUID>1416000142</GUID>
+      <Text>Pioneer Happy</Text>
+    </Text>
+    <Text>
+      <GUID>1416000143</GUID>
+      <Text>Pioneer Perfect</Text>
+    </Text>
+    <Text>
+      <GUID>1416000144</GUID>
+      <Text>Pioneer House</Text>
+    </Text>
+
+  </ModOp>
+</ModOps>
