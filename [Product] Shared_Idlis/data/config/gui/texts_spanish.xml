@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+  <!-- INICIO Idlis -->
+  <Text>
+    <GUID>1900100297</GUID>
+    <Text>Idlis</Text>
+  </Text>
+  <Text>
+    <GUID>1900100298</GUID>
+    <Text>Tortitas de arroz al vapor hechas de masa fermentada y conocidas por su textura suave.</Text>
+  </Text>
+  <Text>
+      <GUID>1416000380</GUID>
+      <Text>Fake idlis Kitchen</Text>
+  </Text>
+  </ModOp>
+</ModOps>

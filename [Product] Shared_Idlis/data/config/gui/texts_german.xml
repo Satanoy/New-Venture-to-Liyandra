@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+  <!-- START Idlis-->
+  <Text>
+    <GUID>1900100297</GUID>
+    <Text>Idlis</Text>
+  </Text>
+  <Text>
+    <GUID>1900100298</GUID>
+    <Text>Steamed rice cakes made from fermented batter and known for their soft texture.</Text>
+  </Text>
+  <Text>
+      <GUID>1416000380</GUID>
+      <Text>Fake idlis Kitchen</Text>
+  </Text>
+  </ModOp>
+</ModOps>

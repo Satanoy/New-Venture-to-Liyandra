@@ -1,0 +1,51 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Idlis",
+  "ModDependencies": [
+    "rice-newhorizons"
+    ],
+  "LoadAfterIds": [
+    "rice-newhorizons"
+  ],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Idlis",
+    "Chinese": "Shared_Idlis",
+    "French": "Shared_Idlis",
+    "German": "Shared_Idlis",
+    "Italian": "Shared_Idlis",
+    "Japanese": "Shared_Idlis",
+    "Korean": "Shared_Idlis",
+    "Polish": "Shared_Idlis",
+    "Russian": "Shared_Idlis",
+    "Spanish": "Shared_Idlis",
+    "Taiwanese": "Shared_Idlis"
+  },
+  "CreatorName": "India mod Team",
+  
+  "Description": {
+    "English": "Shared Product Idlis",
+    "Chinese": "Shared Product Idlis",
+    "French": "Shared Product Idlis",
+    "German": "Shared Product Idlis",
+    "Italian": "Shared Product Idlis",
+    "Japanese": "Shared Product Idlis",
+    "Korean": "Shared Product Idlis",
+    "Polish": "Shared Product Idlis",
+    "Russian": "Shared Product Idlis",
+    "Spanish": "Shared Product Idlis",
+    "Taiwanese": "Shared Product Idlis"
+  }
+}
