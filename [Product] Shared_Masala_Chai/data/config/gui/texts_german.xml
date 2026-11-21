@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+       <!-- START Masala Chai-->
+    <Text>
+      <GUID>1900100164</GUID>
+      <Text>Masala Chai</Text>
+    </Text>
+    <Text>
+      <GUID>1900100165</GUID>
+      <Text>Spiced tea beverage prepared with milk and an aromatic blend of spices.</Text>
+    </Text>
+  <Text>
+      <GUID>1416000400</GUID>
+      <Text>FakeMassala Chai producer</Text>
+  </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,49 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Masala_Chai",
+  "ModDependencies": [
+    ],
+  "LoadAfterIds": [
+  ],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Masala_Chai",
+    "Chinese": "Shared_Masala_Chai",
+    "French": "Shared_Masala_Chai",
+    "German": "Shared_Masala_Chai",
+    "Italian": "Shared_Masala_Chai",
+    "Japanese": "Shared_Masala_Chai",
+    "Korean": "Shared_Masala_Chai",
+    "Polish": "Shared_Masala_Chai",
+    "Russian": "Shared_Masala_Chai",
+    "Spanish": "Shared_Masala_Chai",
+    "Taiwanese": "Shared_Masala_Chai"
+  },
+  "CreatorName": "India mod Team",
+  
+  "Description": {
+    "English": "Shared Product Masala Chai",
+    "Chinese": "Shared Product Masala Chai",
+    "French": "Shared Product Masala Chai",
+    "German": "Shared Product Masala Chai",
+    "Italian": "Shared Product Masala Chai",
+    "Japanese": "Shared Product Masala Chai",
+    "Korean": "Shared Product Masala Chai",
+    "Polish": "Shared Product Masala Chai",
+    "Russian": "Shared Product Masala Chai",
+    "Spanish": "Shared Product Masala Chai",
+    "Taiwanese": "Shared Product Masala Chai"
+  }
+}
