@@ -1,0 +1,49 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Laddoo",
+  "ModDependencies": [
+    ],
+  "LoadAfterIds": [
+  ],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Laddoo",
+    "Chinese": "Shared_Laddoo",
+    "French": "Shared_Laddoo",
+    "German": "Shared_Laddoo",
+    "Italian": "Shared_Laddoo",
+    "Japanese": "Shared_Laddoo",
+    "Korean": "Shared_Laddoo",
+    "Polish": "Shared_Laddoo",
+    "Russian": "Shared_Laddoo",
+    "Spanish": "Shared_Laddoo",
+    "Taiwanese": "Shared_Laddoo"
+  },
+  "CreatorName": "India mod Team",
+  
+  "Description": {
+    "English": "Shared Product Laddoo",
+    "Chinese": "Shared Product Laddoo",
+    "French": "Shared Product Laddoo",
+    "German": "Shared Product Laddoo",
+    "Italian": "Shared Product Laddoo",
+    "Japanese": "Shared Product Laddoo",
+    "Korean": "Shared Product Laddoo",
+    "Polish": "Shared Product Laddoo",
+    "Russian": "Shared Product Laddoo",
+    "Spanish": "Shared Product Laddoo",
+    "Taiwanese": "Shared Product Laddoo"
+  }
+}

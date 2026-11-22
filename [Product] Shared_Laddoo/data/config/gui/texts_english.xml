@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START Ladoo-->
+    <Text>
+      <GUID>1900100240</GUID>
+      <Text>Ladoo</Text>
+    </Text>
+    <Text>
+      <GUID>1900100241</GUID>
+      <Text>Traditional sweet made from flour, sugar, and other aromatic ingredients.</Text>
+    </Text>
+  <Text>
+      <GUID>1416000407</GUID>
+      <Text>Fake Laddoo Kitchen</Text>
+  </Text>
+  </ModOp>
+</ModOps>
