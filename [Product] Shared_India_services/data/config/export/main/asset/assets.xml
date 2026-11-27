@@ -1,0 +1,65 @@
+<ModOps>
+       <!-- START ADD GOOD Mehfil -->
+    <ModOp Type="addNextSibling" GUID='133097'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100262</GUID>
+                    <Name>Mehfil</Name>
+                    <IconFilename>data/ui/icons/Mehfil.png</IconFilename>
+                    <InfoDescription>1900100263</InfoDescription>
+                </Standard>
+                <Product>
+                    <ProductColor>-11415604</ProductColor>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11709</ProductCategory>
+                    <IsAbstract>1</IsAbstract>
+                    <AssociatedRegion>Meta</AssociatedRegion>
+                </Product>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Sthanam-->
+    <ModOp Type="addNextSibling" GUID='133097'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100264</GUID>
+                    <Name>Sthanam</Name>
+                    <IconFilename>data/ui/icons/Sthanam.png</IconFilename>
+                    <InfoDescription>1900100265</InfoDescription>
+                </Standard>
+                <Product>
+                    <ProductColor>-11415604</ProductColor>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11709</ProductCategory>
+                    <IsAbstract>1</IsAbstract>
+                    <AssociatedRegion>Meta</AssociatedRegion>
+                </Product>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- START ADD GOOD Public Bath (Snan Griha)-->
+    <ModOp Type="addNextSibling" GUID='133097'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100287</GUID>
+                    <Name>Snan Griha</Name>
+                    <IconFilename>data/ui/icons/Snan_griha.png</IconFilename>
+                    <InfoDescription>1900100288</InfoDescription>
+                </Standard>
+                <Product>
+                    <ProductColor>-11415604</ProductColor>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11709</ProductCategory>
+                    <IsAbstract>1</IsAbstract>
+                    <AssociatedRegion>Meta</AssociatedRegion>
+                </Product>
+            </Values>
+        </Asset>
+    </ModOp>
+</ModOps>

@@ -1,0 +1,31 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- INICIO Sthanam -->
+    <Text>
+      <GUID>1900100264</GUID>
+      <Text>Sthanam</Text>
+    </Text>
+    <Text>
+      <GUID>1900100265</GUID>
+      <Text>Edificio utilizado para ceremonias y prácticas tradicionales.</Text>
+    </Text>
+    <!-- INICIO Mehfil -->
+    <Text>
+      <GUID>1900100262</GUID>
+      <Text>Mehfil</Text>
+    </Text>
+    <Text>
+      <GUID>1900100263</GUID>
+      <Text>Un edificio social utilizado para reuniones, música y actividades culturales.</Text>
+    </Text>
+    <!-- INICIO Snan Griha -->
+    <Text>
+      <GUID>1900100287</GUID>
+      <Text>Snan Griha</Text>
+    </Text>
+    <Text>
+      <GUID>1900100288</GUID>
+      <Text>Un edificio utilizado para el baño y la purificación corporal.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

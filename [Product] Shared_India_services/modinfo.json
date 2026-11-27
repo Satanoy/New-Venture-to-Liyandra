@@ -1,0 +1,49 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_India_services",
+  "ModDependencies": [
+    ],
+  "LoadAfterIds": [
+  ],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "India_services",
+    "Chinese": "India_services",
+    "French": "India_services",
+    "German": "India_services",
+    "Italian": "India_services",
+    "Japanese": "India_services",
+    "Korean": "India_services",
+    "Polish": "India_services",
+    "Russian": "India_services",
+    "Spanish": "India_services",
+    "Taiwanese": "India_services"
+  },
+  "CreatorName": "India mod Team",
+  
+  "Description": {
+    "English": "Shared Product India services",
+    "Chinese": "Shared Product India services",
+    "French": "Shared Product India services",
+    "German": "Shared Product India services",
+    "Italian": "Shared Product India services",
+    "Japanese": "Shared Product India services",
+    "Korean": "Shared Product India services",
+    "Polish": "Shared Product India services",
+    "Russian": "Shared Product India services",
+    "Spanish": "Shared Product India services",
+    "Taiwanese": "Shared Product India services"
+  }
+}
